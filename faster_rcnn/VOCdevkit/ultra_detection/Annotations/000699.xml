@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>000699.jpeg</filename>
+	<path>C:\Users\Liu Shuo\Desktop\ultra_detection_dataset\JPEGImages\000699.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>35</ymin>
+			<xmax>139</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>
